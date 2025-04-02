@@ -9,3 +9,6 @@
  
 ##Assignments 01 basics.
 https://colab.research.google.com/drive/16jgoklicqOJFP1ITkL5PSNVHVRoXB8zi?usp=sharing
+
+##Assignments 01 to 06.
+https://colab.research.google.com/drive/19L0R_1ohGhhB9dFjI1HxW3SlArUDu7Zz?usp=sharing
